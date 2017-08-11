@@ -1,0 +1,2 @@
+Movie Finder Data
+This project create an Express framework to build a server that can talk to another server and cache the results.When you have a server whose only purpose is to talk in place of another server, it is considered a proxy server. For example instead of our client app requesting movie data from the OMDb API directly, the client will request it from this server which will then request it from the OMDb API.
